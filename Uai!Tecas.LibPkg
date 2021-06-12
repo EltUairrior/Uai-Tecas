@@ -245,7 +245,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MWCOVYLU
 
 [Document13]
-DocumentPath=Fooprints\Capacitor.PcbLib
+DocumentPath=Footprints\Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -262,7 +262,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=Fooprints\Diodo.PcbLib
+DocumentPath=Footprints\Diodo.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -279,7 +279,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=Fooprints\Diversos.PcbLib
+DocumentPath=Footprints\Diversos.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -296,7 +296,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=Fooprints\Driver.PcbLib
+DocumentPath=Footprints\Driver.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -313,7 +313,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=Fooprints\Header.PcbLib
+DocumentPath=Footprints\Header.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -330,7 +330,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=Fooprints\Mosfet.PcbLib
+DocumentPath=Footprints\Mosfet.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -347,7 +347,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=Fooprints\Pad.PcbLib
+DocumentPath=Footprints\Pad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -364,7 +364,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=Fooprints\Resistor.PcbLib
+DocumentPath=Footprints\Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -381,7 +381,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
-DocumentPath=Fooprints\Voltage Regulator.PcbLib
+DocumentPath=Footprints\Voltage Regulator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
