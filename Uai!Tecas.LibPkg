@@ -55,7 +55,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PGJOOWRF
+DocumentUniqueId=XHCEAAAQ
 
 [Document2]
 DocumentPath=Capacitor.SchLib
@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JQULKCHN
+DocumentUniqueId=JGWYKJAE
 
 [Document3]
 DocumentPath=Diversos.SchLib
@@ -92,6 +92,23 @@ GenerateClassCluster=0
 DocumentUniqueId=EMRACAEW
 
 [Document4]
+DocumentPath=Diodo.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HGEAKLXU
+
+[Document5]
 DocumentPath=Driver.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLPOKHSS
 
-[Document5]
+[Document6]
 DocumentPath=Header.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFEMOKYI
 
-[Document6]
+[Document7]
 DocumentPath=Mosfet.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBBGMRJZ
 
-[Document7]
+[Document8]
 DocumentPath=Pad.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDTDBZDI
 
-[Document8]
+[Document9]
 DocumentPath=Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,9 +191,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YWDSIUWI
+DocumentUniqueId=BZPOOHJD
 
-[Document9]
+[Document10]
 DocumentPath=Voltage Regulator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQBIKKCV
 
-[Document10]
+[Document11]
 DocumentPath=Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTHSXSLP
 
-[Document11]
+[Document12]
 DocumentPath=Diversos.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +244,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAOCYAVV
 
-[Document12]
+[Document13]
+DocumentPath=Diodo.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PTIJHJTA
+
+[Document14]
 DocumentPath=Driver.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDHYHWSK
 
-[Document13]
+[Document15]
 DocumentPath=Header.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODMUJKDH
 
-[Document14]
+[Document16]
 DocumentPath=Mosfet.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANDNAUEA
 
-[Document15]
+[Document17]
 DocumentPath=.gitignore
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document18]
 DocumentPath=README.md
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document19]
 DocumentPath=Pad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HAYEIQSR
 
-[Document18]
+[Document20]
 DocumentPath=Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEIGROEK
 
-[Document19]
+[Document21]
 DocumentPath=Voltage Regulator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
