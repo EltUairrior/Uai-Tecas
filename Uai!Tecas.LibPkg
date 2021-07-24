@@ -123,7 +123,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CJREPJDD
+DocumentUniqueId=DBPULFCK
 
 [Document6]
 DocumentPath=Schematics\Diversos.SchLib
@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JRNIZVXR
+DocumentUniqueId=EMRACAEW
 
 [Document7]
 DocumentPath=Schematics\Driver.SchLib
@@ -174,7 +174,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZEFHMEPA
+DocumentUniqueId=IFEMOKYI
 
 [Document9]
 DocumentPath=Schematics\Indutor.SchLib
@@ -208,7 +208,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZCQXGRLK
+DocumentUniqueId=FYJUVWEX
 
 [Document11]
 DocumentPath=Schematics\Mosfet.SchLib
@@ -242,7 +242,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XXSFCNPM
+DocumentUniqueId=CDTDBZDI
 
 [Document13]
 DocumentPath=Schematics\Resistor.SchLib
@@ -276,7 +276,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MWCOVYLU
+DocumentUniqueId=BBFYCOEV
 
 [Document15]
 DocumentPath=Footprints\Capacitor.PcbLib
@@ -310,7 +310,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PTIJHJTA
 
 [Document17]
 DocumentPath=Footprints\Diversos.PcbLib
@@ -327,7 +327,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LAOCYAVV
 
 [Document18]
 DocumentPath=Footprints\Header.PcbLib
@@ -429,7 +429,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HAYEIQSR
 
 [Document24]
 DocumentPath=Footprints\Resistor.PcbLib
@@ -446,7 +446,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TEIGROEK
 
 [Document25]
 DocumentPath=Footprints\Voltage Regulator.PcbLib
