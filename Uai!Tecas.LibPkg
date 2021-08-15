@@ -463,7 +463,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PDNUGPDF
 
 [OutputGroup1]
 Name=Netlist Outputs
