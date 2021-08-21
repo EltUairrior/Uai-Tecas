@@ -4,7 +4,7 @@ Esse repositório contém a biblioteca de esquemáticos e footprints utilizados 
 
 ## Organização
 
-A nomeclatura e os parâmetros dos componentes seguem um padrão que pode ser observado em *[Schematics/Lib_referencia](Schematics/Lib_referencia.SchLib)*. Além disso, a biblitoeca está organizada pelos tipos de componentes listados abaixo:
+A nomeclatura e os parâmetros dos componentes seguem um padrão que pode ser observado em *[Schematics/Lib_referencia](Schematics/Lib_referencia.SchLib)*. Além disso, a biblioteca está organizada pelos tipos de componentes listados abaixo:
 
 
 ```
