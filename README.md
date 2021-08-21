@@ -32,6 +32,8 @@ git clone https://github.com/EltUairrior/Uai-Tecas.git
 ```
 Assim que dar o comando, será requisitado seu usuário e senha do GitHub.
 
+2. No nosso caso, utilizamos o software Altium Designer para nossos projetos. Nele, basta abrir a biblioteca (File -> Open Project -> <Pasta onde se encontra a Uai-Tecas>), dar um clique direito nela e ir em 
+
 ## Contribuindo
 
 Os componentes são limitados aos usados pela equipe, mas caso você encontrem algum erro em nossa biblioteca um Pull Request será muito bem vindo!
