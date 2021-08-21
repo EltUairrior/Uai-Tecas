@@ -34,7 +34,7 @@ Assim que dar o comando, será requisitado seu usuário e senha do GitHub.
 
 2. No nosso caso, utilizamos o software Altium Designer para nossos projetos. Nele, basta abrir a biblioteca (File -> Open Project -> <Pasta onde se encontra a Uai-Tecas>), dar um clique direito sobre ela e ir em "Compile Integrated Library Uai!Tecas.LibPkg". Dessa maneira, vai ter já em mãos a biblioteca pronta para uso em seus esquemáticos e PCB's. Caso não apareça essa opção, vá em Panels, na parte inferior direita, Components, nas três barrinhas ao lado da barra principal de pesquisa da janela que irá aparecer e clique na primeira opção ("File-based Libraries Preferences..."), vá em Installed -> Install e procure onde está a biblioteca. Depois, pode apertar o botão Close e tentar compilar a Uai-Tecas novamente.
   
-3. Sempre que a biblioteca sobrer atualizações, pode, atrvés do Git bash, utilizar o comando:
+3. Sempre que a biblioteca sobrer atualizações, pode, através do Git bash, utilizar o comando:
   
 ```
 git pull 
