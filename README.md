@@ -42,9 +42,9 @@ git pull
 Ainda, se preferir, pode também fazer uso do comando:
   
 ```
-  git refresh remote-branch-name
+git refresh remote-branch-name
 ```
-  Se divirta utilizando os componentes nos esquemáticos e layouts de seus projetos!
+E se divirta utilizando os componentes nos esquemáticos e layouts de seus projetos!
 
 ## Contribuindo
 
