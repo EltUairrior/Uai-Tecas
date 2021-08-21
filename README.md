@@ -25,12 +25,12 @@ Voltage Regulator
 
 Para utilizar nossa biblioteca, os seguintes passos podem ser seguidos:
 
-# 1. Baixar a nossa biblioteca, a partir de Code -> Download ZIP ou Clonar nosso repositório, que é uma maneira de ter sempre a nossa biblioteca atualizada. Para isso, pode baixar o GitHub em seu Desktop (<a href="https://git-scm.com/downloads" target="_blank">Download GitHub</a>). Após fazer isso, terá baixado o próprio Git, o terminal Git bash e a interface gráfica Git GUI. Pode ir até uma pasta à sua escolha e abrir o git bash nela (dessa forma, o caminho até ela já terá sido feito), depois pode utilizar o comando:
+##### 1. Baixar a nossa biblioteca, a partir de Code -> Download ZIP ou Clonar nosso repositório, que é uma maneira de ter sempre a nossa biblioteca atualizada. Para isso, pode baixar o GitHub em seu Desktop (<a href="https://git-scm.com/downloads" target="_blank">Download GitHub</a>). Após fazer isso, terá baixado o próprio Git, o terminal Git bash e a interface gráfica Git GUI. Pode ir até uma pasta à sua escolha e abrir o git bash nela (dessa forma, o caminho até ela já terá sido feito), depois pode utilizar o comando:
 
 ```
 git clone https://github.com/EltUairrior/Uai-Tecas.git
 ```
-# Assim que dar o comando, será requisitado seu usuário e senha do GitHub.
+##### Assim que dar o comando, será requisitado seu usuário e senha do GitHub.
 
 ## Contribuindo
 
