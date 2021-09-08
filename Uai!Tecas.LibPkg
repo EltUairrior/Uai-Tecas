@@ -242,7 +242,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CDTDBZDI
+DocumentUniqueId=ASCACGDD
 
 [Document13]
 DocumentPath=Schematics\Resistor.SchLib
