@@ -106,7 +106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GBBBBMQZ
+DocumentUniqueId=MHJGIVEF
 
 [Document5]
 DocumentPath=Schematics\Diodo.SchLib
@@ -123,7 +123,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DBPULFCK
+DocumentUniqueId=ADCFOBGX
 
 [Document6]
 DocumentPath=Schematics\Diversos.SchLib
@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EMRACAEW
+DocumentUniqueId=ZLFTHUOD
 
 [Document7]
 DocumentPath=Schematics\Driver.SchLib
@@ -157,7 +157,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IIUEIHOH
+DocumentUniqueId=FNRBVKBE
 
 [Document8]
 DocumentPath=Schematics\Header.SchLib
@@ -174,7 +174,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IFEMOKYI
+DocumentUniqueId=GYFQZRLP
 
 [Document9]
 DocumentPath=Schematics\Indutor.SchLib
@@ -191,7 +191,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QJICGGRY
+DocumentUniqueId=ZMPZCIXL
 
 [Document10]
 DocumentPath=Schematics\Microcontrolador.SchLib
@@ -242,7 +242,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ASCACGDD
+DocumentUniqueId=GGGPOHQO
 
 [Document13]
 DocumentPath=Schematics\Resistor.SchLib
@@ -259,7 +259,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YNZTHVVI
+DocumentUniqueId=JGDPURIB
 
 [Document14]
 DocumentPath=Schematics\Voltage Regulator.SchLib
@@ -276,7 +276,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BBFYCOEV
+DocumentUniqueId=MJDAMEPA
 
 [Document15]
 DocumentPath=Footprints\Capacitor.PcbLib
@@ -574,7 +574,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Samsung SCX-3400 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
