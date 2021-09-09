@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PGJOOWRF
+DocumentUniqueId=HBADNEUW
 
 [Document4]
 DocumentPath=Schematics\Capacitor.SchLib
@@ -208,7 +208,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FYJUVWEX
+DocumentUniqueId=IOUGRVUH
 
 [Document11]
 DocumentPath=Schematics\Mosfet.SchLib
@@ -225,7 +225,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QVKFYMRS
+DocumentUniqueId=WTQLLITC
 
 [Document12]
 DocumentPath=Schematics\Pad.SchLib
