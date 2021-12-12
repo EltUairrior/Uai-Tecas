@@ -1,0 +1,25 @@
+CSV text has been written to file : Lib_referencia.csv
+
+Library Component Count : 18
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+Capacitor Model     CAP CER 1UF 25V X7R 0603
+Connector Model     CONN HEADER VERT 10POS 2.54MM
+Diode Model         DIODE GEN PURP 100V 300MA SOD123
+Driver Model        IC MTR DRV "Voltage - Load" "Current Output" "Package / Case"
+Ferrite Bead Model  FERRITE BEADS 220 OHM 25% 0.450A 0603
+Ground Pad Model    GND PAD CATEGORY
+Inductor Model      IND FIXED 1.4nh 1.1A 40MOHM
+Led Model           LED 0.072W RED 60MCD 0805
+Liner Regulator ModelIC REG LINEAR 3.3V 1A SOT-23-5
+MOSFET-N Model      MOSFET N-CH 30V 5A SOT-23-3
+MOSFET-N Model-Freewheeling-DiodeMOSFET N-CH 30V 5A SOT-23-3
+MOSFET-P Model      MOSFET P-CH 20V 11A SO-8
+MOSFET-P Model_Freewheeling_DiodeMOSFET P-CH 20V 11A SO-8
+Microcontroller ModelIC MCU 32BIT 1MB FLASH ARM-M4 168MHZ LQFP-100
+Motor Pad Model     MOTOR PAD CATEGORY
+Resistor Model      RES SMD 1.05K OHM 0.1% 1/10W 0603
+Source Pad Model    VCC PAD CATEGORY
+Switching Regulator ModelIC REG SWITCHING 5V 2.5A 13.1W
