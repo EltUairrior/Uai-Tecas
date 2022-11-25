@@ -168,23 +168,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FMTJGLHY
 
 [Document8]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {A6861AC7-9230-4ACC-A793-971C6EF08D75}\VaultEditCache\BA8BD7EB-5873-49E1-BC28-CF45F2BC2FE8\Released\2.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=Schematics\Header.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFEMOKYI
 
-[Document10]
+[Document9]
 DocumentPath=Schematics\Indutor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFRFXYLV
 
-[Document11]
+[Document10]
 DocumentPath=Schematics\Microcontrolador.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYJUVWEX
 
-[Document12]
+[Document11]
 DocumentPath=Schematics\Mosfet.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVKFYMRS
 
-[Document13]
+[Document12]
 DocumentPath=Schematics\Pad.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASCACGDD
 
-[Document14]
+[Document13]
 DocumentPath=Schematics\Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGDPURIB
 
-[Document15]
+[Document14]
 DocumentPath=Schematics\Voltage Regulator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPNXAZUZ
 
-[Document16]
+[Document15]
 DocumentPath=Footprints\Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTHSXSLP
 
-[Document17]
+[Document16]
 DocumentPath=Footprints\Diodo.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTIJHJTA
 
-[Document18]
+[Document17]
 DocumentPath=Footprints\Diversos.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,24 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAOCYAVV
 
-[Document19]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {A6861AC7-9230-4ACC-A793-971C6EF08D75}\VaultEditCache\BA8BD7EB-5873-49E1-BC28-CF45F2BC2FE8\Released\1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
+[Document18]
 DocumentPath=Footprints\Header.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODMUJKDH
 
-[Document21]
+[Document19]
 DocumentPath=Footprints\Driver.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDHYHWSK
 
-[Document22]
+[Document20]
 DocumentPath=Footprints\Indutor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFSNNUHD
 
-[Document23]
+[Document21]
 DocumentPath=Footprints\Mosfet.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANDNAUEA
 
-[Document24]
+[Document22]
 DocumentPath=Footprints\Microcontrolador.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVTUFVLW
 
-[Document25]
+[Document23]
 DocumentPath=Footprints\Pad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HAYEIQSR
 
-[Document26]
+[Document24]
 DocumentPath=Footprints\Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,7 +456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEIGROEK
 
-[Document27]
+[Document25]
 DocumentPath=Footprints\Voltage Regulator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,18 +666,6 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1068,11 +1022,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1205,7 +1154,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1397,13 +1345,13 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
 Type126=1
-Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
